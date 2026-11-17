@@ -21,11 +21,11 @@ I enjoy working across the stack, from crafting intuitive interfaces to developi
 
 Beyond writing code, I enjoy exploring new technologies, experimenting with ideas and finding better ways to approach problems.
 
-- 💻 Building web applications and digital products.
-- 🧩 Interested in software engineering, problem-solving and product development.
-- 🎨 I appreciate clean interfaces, thoughtful design and maintainable code.
-- 🌱 Currently learning Python and expanding my engineering toolkit.
-- 🤝 Open to interesting projects and meaningful collaborations.
+- Building web applications and digital products.
+- Interested in software engineering, problem-solving and product development.
+- I appreciate clean interfaces, thoughtful design and maintainable code.
+- Currently learning Python and expanding my engineering toolkit.
+- Open to interesting projects and meaningful collaborations.
 
 ## Tech Stack
 
