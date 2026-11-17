@@ -77,12 +77,6 @@ A web-based application for managing child immunisation records, built to suppor
 
 [View source code](https://github.com/kiviekelvin/child-immunisation-record-system)
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiviekelvin&show_icons=true&hide_border=true&title_color=D6AE58&icon_color=D6AE58&text_color=C9D1D9&bg_color=0D1117" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiviekelvin&layout=compact&hide_border=true&title_color=D6AE58&text_color=C9D1D9&bg_color=0D1117" height="165" />
-</p>
 
 ## Beyond the Code
 
